@@ -39,6 +39,9 @@ AGENCIES = ["Andaman And Nicobar ( PWD )", "Andhra Pradesh ( PR )", "Andhra Prad
             "Tripura ( PWD )", "Uttar Pradesh ( PWD )", "Uttarakhand ( PWD )", "West Bengal ( WBSRDA )"]
 
 
+# max_workers: the hub compares it with every worker on the target (contractor-registration's PMGSY projects too), so it is the
+# ceiling for the whole site, not for this project: 4 = at most 4 workers on pmgsy.dord.gov.in when ours run (the family borrows
+# at most 4 proxies anyway).
 def _env(**extra):
     return {"ADAPTER": "ommas", "SITE": SITE, **extra}
 
@@ -49,7 +52,7 @@ def _district(report, **extra):
             for s, d, name in DISTRICTS]
 
 
-def _common(name, title, unit, record, items, workers=1, **env):
+def _common(name, title, unit, record, items, workers=4, **env):
     return {"name": f"{FAMILY}-{name}", "title": title, "task": "crawl", "target": TARGET, "env": _env(**env), "proxy": "IN",
             "max_workers": workers, "unit_label": unit, "record_label": record, "items": items}
 
@@ -70,7 +73,7 @@ PROJECTS = [
             "district", "facility", _district("facilities")),
     # Works-wise Grading Abstract + every NQM / SQM inspection (monitor, date, items graded, photo links, GPS points)
     _common("qm", "PMGSY quality monitor inspections per district (NQM, SQM): monitor, date, item grades, photos, GPS",
-            "district", "work or inspection", _district("qm"), workers=3),
+            "district", "work or inspection", _district("qm")),
     _common("monitors", "PMGSY monitor-wise grading abstract per year (NQM, SQM): monitor, month, district, gradings",
             "year x tier", "monitor x month x district",
             [{"key": f"monitors-{qm}-{y}", "payload": {"report": "monitors", "qm": qm, "year": y}}

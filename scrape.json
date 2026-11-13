@@ -1,6 +1,6 @@
 {
   "family": "pmgsy-reports",
-  "about": "PMGSY OMMAS citizen reports: road list with contractors and progress, sanctioned projects, habitations, PMGSY-III facilities, quality monitor inspections, final bill status, joint inspections",
+  "about": "PMGSY OMMAS citizen reports: road list with contractors and progress, sanctioned projects, habitations, PMGSY-III facilities with GPS, quality monitor inspections (grades, photo links, GPS), final bill status, joint inspections",
   "setup": [
     "pip install -r requirements.txt"
   ],

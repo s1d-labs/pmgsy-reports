@@ -1,0 +1,181 @@
+﻿Textbox27
+" State Name : Sikkim     District Name : East     Block Name : All Blocks
+
+ Note : The following data was collected for the purpose of PMGSY-III. To understand the rural facilities surveyed please refer to PMGSY-III Guidelines. NRIDA doesn't provide guarantee or take liability for it's accuracy & completeness for any other purpose.The data is not stated to be exhaustive & depends on the status of the completion of the survey activity in each block. This dataset including metadata is licensed under the Government Open Data License - India "
+
+Textbox28,STATE_NAME,DISTRICT_NAME,BLOCK_NAME,HABITATION_NAME,HAB_CODE,MASTER_FACILITY_DESC,ADDRESS,FILE_UPLOAD_DATE,MASTER_FACILITY_CATEGORY_NAME,SUB_CATEGORY,LATITUDE,LONGITUDE
+1,Sikkim,East,Gangtok,RANGPO.,1672212,Ayurveda health centre,Rongpo,21 June 2020,Medical ,Community Health Centre,27.173516730000,88.530522030000
+2,Sikkim,East,Gangtok,SAJONG,1671942,sajong petrol pump,sajong rumtek,21 June 2020,Transport/Admin,Fuel Station,27.301118350000,88.572647460000
+3,Sikkim,East,Martam,LOWER MARTAM.,1521345,32 no. petrol pump,32 no.,21 June 2020,Transport/Admin,Fuel Station,27.263797560000,88.570218000000
+4,Sikkim,East,Gangtok,RANGPO.,1672212,Rongpo Indian oil,Rongpo,21 June 2020,Transport/Admin,Fuel Station,27.177435560000,88.523730740000
+5,Sikkim,East,Gangtok,RANIPOOL.,1672199,ranipool petrol pump,ranipool,21 June 2020,Transport/Admin,Fuel Station,27.292381500000,88.589999330000
+6,Sikkim,East,Gangtok,SMC,1672215,Fuel station singtam,singtam,22 June 2020,Transport/Admin,Fuel Station,27.231759670000,88.497869980000
+7,Sikkim,East,Gangtok,RANIPOOL.,1672199,ranipool petrol pump 2,ranipool,21 June 2020,Transport/Admin,Fuel Station,27.296886020000,88.587739690000
+8,Sikkim,East,Gangtok,RANGPO.,1672212,Bharat Petroleum,Rongpo,21 June 2020,Transport/Admin,Fuel Station,27.174137480000,88.531393700000
+9,Sikkim,East,Ranka,BURTUK.,1521053,BAGTHANG PETROL PUMP,BURTUK,22 June 2020,Transport/Admin,Fuel Station,27.360290000000,88.622070000000
+10,Sikkim,East,Gangtok,SMC,1672215,singtam petrol pump,singtam,22 June 2020,Transport/Admin,Fuel Station,27.233271730000,88.502042350000
+11,Sikkim,East,Rakdong Tintek,SHALEY,1521593,Bharat Petroleum Pump,Lower Tumin,22 June 2020,Transport/Admin,Fuel Station,27.336123960000,88.490757590000
+12,Sikkim,East,Gangtok,MAJITAR,1672216,Bharat Petroleum,Majitar,21 June 2020,Transport/Admin,Fuel Station,27.187955280000,88.500280970000
+13,Sikkim,East,Gangtok,RANGPO.,1672212,indian oil,Rongpo,21 June 2020,Transport/Admin,Fuel Station,27.173714100000,88.531308720000
+14,Sikkim,East,Gangtok,RANGPO.,1672212,Consumer pump,Rongpo,21 June 2020,Transport/Admin,Fuel Station,27.173959100000,88.531395320000
+15,Sikkim,East,Rakdong Tintek,MINING.,1521334,Food Corporation of india,Mining,21 June 2020,Agro ,Agro Industry,27.179255200000,88.514306070000
+16,Sikkim,East,Gangtok,DUNGDUNG,1671909,Dung dung Aritar Consumers Cooperative (Milk Diary),Khamdong,22 June 2020,Agro ,Collection Centre or Pack House,27.276105130000,88.460434760000
+17,Sikkim,East,Rakdong Tintek,RALAY,1521489,Milk collection centre,Raley Khesey,09 September 2020,Agro ,Collection Centre or Pack House,27.343560000000,88.487911666667
+18,Sikkim,East,Gangtok,LINGDING,1671912,agricultural engineering  worksshop,lingding,27 June 2020,Agro ,Collection Centre or Pack House,27.321014371797,88.603869235248
+19,Sikkim,East,Rakdong Tintek,TINTEK,1521684,Rakdong tintek organic cooperative society,Tumin(Borang),10 September 2020,Agro ,Collection Centre or Pack House,27.334075000000,88.609186666667
+20,Sikkim,East,Rakdong Tintek,RALAY,1521489,Samdong kambal multipurpose cooperative society ltd,Raley khesey,09 September 2020,Agro ,Collection Centre or Pack House,27.345466666667,88.486646666667
+21,Sikkim,East,Khamdung,SIRWANI.,1521561,COLLECTION CENTRE UNDER HORTICULTURE DEPARTMENT,SIRWANI,21 June 2020,Agro ,Collection Centre or Pack House,27.247908333333,88.485513333333
+22,Sikkim,East,Khamdung,BENG,1521000,COLLECTION CENTRE UNDER HORTICULTURE DEPARTMENT,BENG KHAMDUNG,21 June 2020,Agro ,Collection Centre or Pack House,27.267311666667,88.488435000000
+23,Sikkim,East,Gangtok,LINGDING,1672210,state bio control laboratory,lingding,27 June 2020,Agro ,Collection Centre or Pack House,27.320957470482,88.603614932480
+24,Sikkim,East,Khamdung,SIRWANI.,1521561,SECONDARY SCHOOL SIRWANI,SIRWANI,22 June 2020,Education ,High School - General,27.244183333333,88.477373333333
+25,Sikkim,East,Gangtok,RANGPO.,1672212,Government secondary school,Rongpo,21 June 2020,Education ,High School - General,27.177256450000,88.530547110000
+26,Sikkim,East,Martam,TSHAMLAMTHANG,1521591,government secondary school,sang tshalamthang,21 June 2020,Education ,High School - General,27.255556890000,88.526089550000
+27,Sikkim,East,Khamdung,SIRWANI.,1521561,East Point senior secondary school,singtam,21 June 2020,Education ,High School - General,27.229073180000,88.493588830000
+28,Sikkim,East,Ranka,DHAJEY.,1520992,LITTLE PIXIES INTERNATIONAL SCHOOL,Dhajey,09 March 2023,Education ,High School - General,27.328312890000,88.582565140000
+29,Sikkim,East,Khamdung,RALAP.,1521238,SECONDARY SCHOOL RALAP,RALAP,22 June 2020,Education ,High School - General,27.267553333333,88.445603333333
+30,Sikkim,East,Martam,Middle Tirkutam.,1521348,Sauraney Govt High School,Saureni,01 July 2020,Education ,High School - General,27.284181666667,88.602661666667
+31,Sikkim,East,Gangtok,Lingzey,1671997,Government secondary school,Sumon Linzey,20 June 2020,Education ,High School - General,27.234487340000,88.509007930000
+32,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,Tumin Secondary School,Tumin (East Sikkim),22 June 2020,Education ,High School - General,27.332433790000,88.505547820000
+33,Sikkim,East,Ranka,RAWTEY RUMTEK.,1521495,shri Ramanuja vedic gurukul,durga mandir,21 June 2020,Education ,High School - General,27.308144212681,88.575940817993
+34,Sikkim,East,Gangtok,BARDANG,1672214,Government secondary school,Bardang,21 June 2020,Education ,High School - General,27.217584080000,88.490113400000
+35,Sikkim,East,Gangtok,GANGTOK.,1672205,St. Thomas school,paljor stadium road Gangtok,20 June 2020,Education ,High School - General,27.333031000000,88.614630100000
+36,Sikkim,East,Ranka,SICHEY.,1521055,khy de khang secondary  school,sichey sokhaygang,21 June 2020,Education ,Higher Secondary School,27.347556713152,88.606426383868
+37,Sikkim,East,Gangtok,RUMTEK,1671882,government senior secondary school rumtek,rumtek,21 June 2020,Education ,Higher Secondary School,27.303800890000,88.570808710000
+38,Sikkim,East,Gangtok,DHAJAY,1671908,Senior secondary school ranka,Dhajay ranka,22 June 2020,Education ,Higher Secondary School,27.328856630000,88.582071650000
+39,Sikkim,East,Nandok,PABYUK.,1521302,Government Senior Secondary School Pabyuik,"Pabyuik ,bhusuk Naitam GPU",26 June 2020,Education ,Higher Secondary School,27.298209910000,88.636852260000
+40,Sikkim,East,Martam,LOWER MARTAM.,1521345,middle camp secondary school,32 no.,21 June 2020,Education ,Higher Secondary School,27.263080190000,88.566900860000
+41,Sikkim,East,Rakdong Tintek,TINTEK,1521684,Government senior secondary school,Dikchu East sikkim,09 September 2020,Education ,Higher Secondary School,27.398935000000,88.522533333333
+42,Sikkim,East,Gangtok,SMC,1672215,SENIOR SECONDARY SCHOOL SINGTAM,SINGTAM,22 June 2020,Education ,Higher Secondary School,27.232648333333,88.496535000000
+43,Sikkim,East,Ranka,PARBING RANKA,1520994,RAnka senior secondary  school,ranka,21 June 2020,Education ,Higher Secondary School,27.329028078365,88.582259374125
+44,Sikkim,East,Gangtok,TADONG BAZAAR.,1672202,government sr sec school Tadong,Tadong bazar Gangtok,20 June 2020,Education ,Higher Secondary School,27.333031000000,88.614630100000
+45,Sikkim,East,Gangtok,MARCHAK,1671881,biraspati parsai govt. senior secondary school,marchak,21 June 2020,Education ,Higher Secondary School,27.289202180000,88.588977150000
+46,Sikkim,East,Gangtok,SANG,1671883,SENIOR SECONDARY SCHOOL SANG,SANG,21 June 2020,Education ,Higher Secondary School,27.254591666667,88.505001666667
+47,Sikkim,East,Martam,Middle Tirkutam.,1521348,model school,Assam lingzey,28 June 2020,Education ,Higher Secondary School,27.286735600000,88.616590190000
+48,Sikkim,East,Gangtok,GANGTOK.,1672205,tashi namgyal higher secondary  school,development area,20 June 2020,Education ,Higher Secondary School,27.342190503677,88.609341032773
+49,Sikkim,East,Khamdung,L KHAMDONG.,1521246,Govt. Sr. Sec. School,Khamdong,22 June 2020,Education ,Higher Secondary School,27.275098040000,88.460199540000
+50,Sikkim,East,Ranka,DHAJEY.,1520992,Govt. senior secondary school Ranka,Dhajey,09 March 2023,Education ,Higher Secondary School,27.328930920000,88.582242370000
+51,Sikkim,East,Rakdong Tintek,MINING.,1521334,Government senior secondary school,Mining,21 June 2020,Education ,Higher Secondary School,27.178643530000,88.514006280000
+52,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,Government senior secondary school,Samdong,09 September 2020,Education ,Higher Secondary School,27.354670000000,88.494280000000
+53,Sikkim,East,Rakdong Tintek,LINGDOk FEMPO GAON,1521332,Govt. Sr. Secondary School Lingdok,Lingdok East Sikkim,21 June 2020,Education ,Higher Secondary School,27.388570160000,88.574843020000
+54,Sikkim,East,Gangtok,GANGTOK.,1672205,Sir Thutob Namgyal memorial hospital old,Gangtok,20 June 2020,Medical ,Bedded Hospital,27.333031000000,88.614630100000
+55,Sikkim,East,Ranka,SICHEY.,1521055,STNM MULTISPECIALTY HOSPITAL,sokaygang,21 June 2020,Medical ,Bedded Hospital,27.345889064093,88.603789527301
+56,Sikkim,East,Rakdong Tintek,TINTEK,1521684,SBI bank,Dikchu East Sikkim,09 September 2020,Transport/Admin,Bank,27.401520000000,88.520736666667
+57,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,State Bank of India,Upper Samdong,21 June 2020,Transport/Admin,Bank,27.356928960000,88.497679400000
+58,Sikkim,East,Gangtok,RANGPO.,1672212,SBI Bank,Rongpo,21 June 2020,Transport/Admin,Bank,27.174725060000,88.531498100000
+59,Sikkim,East,Gangtok,SMC,1672215,Sikkim state co operative bank singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231795670000,88.493013110000
+60,Sikkim,East,Gangtok,SANG,1671883,state bank of sikkkm,sang,21 June 2020,Transport/Admin,Bank,27.257438050000,88.505248960000
+61,Sikkim,East,Gangtok,PENLONG,1672004,United Bank of India,Penlong,23 June 2020,Transport/Admin,Bank,27.345896270000,88.613989830000
+62,Sikkim,East,Gangtok,SMC,1672215,Oriental Bank of Commerce singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231446790000,88.495352680000
+63,Sikkim,East,Gangtok,GANGTOK.,1672205,State bank of Sikkim,below highcourt NH 10 Gangtok,20 June 2020,Transport/Admin,Bank,27.333031000000,88.614630100000
+64,Sikkim,East,Gangtok,RANGPO.,1672212,Axis bank,Rongpo,21 June 2020,Transport/Admin,Bank,27.175036550000,88.531661400000
+65,Sikkim,East,Gangtok,SMC,1672215,Axis Bank singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231549490000,88.496049010000
+66,Sikkim,East,Gangtok,MAJITAR,1672216,ICICI Bank,Majitar,21 June 2020,Transport/Admin,Bank,27.186305160000,88.503001130000
+67,Sikkim,East,Gangtok,SMC,1672215,HDFC Bank singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231799120000,88.497544010000
+68,Sikkim,East,Gangtok,PENLONG,1672004,Penlong Branch Post Office,Penlong,23 June 2020,Transport/Admin,Bank,27.374390580000,88.604833180000
+69,Sikkim,East,Ranka,RAWTEY RUMTEK.,1521495,state bank of india,rumtek,21 June 2020,Transport/Admin,Bank,27.291826323769,88.561105405825
+70,Sikkim,East,Gangtok,RANGPO.,1672212,Center bank of india,Rongpo,21 June 2020,Transport/Admin,Bank,27.175062150000,88.530497420000
+71,Sikkim,East,Gangtok,RANGPO.,1672212,Punjab National Bank,Rongpo,21 June 2020,Transport/Admin,Bank,27.173657100000,88.530540380000
+72,Sikkim,East,Gangtok,SMC,1672215,CANARA BANK SINGTAM,SINGTAM,22 June 2020,Transport/Admin,Bank,27.232438333333,88.497491666667
+73,Sikkim,East,Gangtok,GANGTOK.,1672205,State Bank of India,MG marg Gangtok,20 June 2020,Transport/Admin,Bank,27.333031000000,88.614630100000
+74,Sikkim,East,Gangtok,SMC,1672215,Union Bank singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231762310000,88.492990900000
+75,Sikkim,East,Gangtok,SMC,1672215,UCO Bank singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231464480000,88.492378180000
+76,Sikkim,East,Gangtok,SMC,1672215,Bank of Baroda singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231930720000,88.498537180000
+77,Sikkim,East,Gangtok,GNATHANG,1671910,state Bank of sikkim,J.N Road,25 June 2020,Transport/Admin,Bank,27.375131680000,88.756619620000
+78,Sikkim,East,Gangtok,RUMTEK,1671882,state bank of india,rumtek,21 June 2020,Transport/Admin,Bank,27.291995760000,88.561482250000
+79,Sikkim,East,Gangtok,SMC,1672215,State Bank of india singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231713480000,88.494736570000
+80,Sikkim,East,Gangtok,SMC,1672215,IDBI Bank singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231514120000,88.496418220000
+81,Sikkim,East,Ranka,PARBING RANKA,1520994,state bank of india ranka branch,ranka,21 June 2020,Transport/Admin,Bank,27.324214807251,88.582668792506
+82,Sikkim,East,Gangtok,SMC,1672215,central Bank of India singtam,singtam,22 June 2020,Transport/Admin,Bank,27.231752400000,88.497354440000
+83,Sikkim,East,Gangtok,RANGPO.,1672212,UCO Bank,Rongpo,21 June 2020,Transport/Admin,Bank,27.176001840000,88.529197440000
+84,Sikkim,East,Gangtok,RANGPO.,1672212,HDFC Bank,Rongpo,21 June 2020,Transport/Admin,Bank,27.174824500000,88.531570300000
+85,Sikkim,East,Rakdong Tintek,LINGDOk FEMPO GAON,1521332,Gram Panchayat Lingdok Nampong,Lingdok East Sikkim,21 June 2020,Transport/Admin,Panchayat Headquarter,27.389730590000,88.572671970000
+86,Sikkim,East,Khamdung,SIRWANI.,1521561,SIRWANI GRAM PRASHASAN KENDRA.,"DOCHUNG, SIRWANI",21 June 2020,Transport/Admin,Panchayat Headquarter,27.242293333333,88.481066666667
+87,Sikkim,East,Gangtok,PENLONG,1672004,Navey Shotak Gram Panchayat,Navey Shotak,23 June 2020,Transport/Admin,Panchayat Headquarter,27.372459630000,88.604497550000
+88,Sikkim,East,Gangtok,DHAJAY,1671908,panchayat headquarter,Dhajay Ranka,22 June 2020,Transport/Admin,Panchayat Headquarter,27.324159560000,88.581651570000
+89,Sikkim,East,Gangtok,SANG,1671883,GRAM PANCHAYAT UNIT,SANG,21 June 2020,Transport/Admin,Panchayat Headquarter,27.255571666667,88.504636666667
+90,Sikkim,East,Rakdong Tintek,TINTEK,1521684,Gram prasashan kendra,Rakdong Tintek East Sikkim,09 September 2020,Transport/Admin,Panchayat Headquarter,27.398705000000,88.523128333333
+91,Sikkim,East,Khamdung,L KHAMDONG.,1521246,GRAM PRASHASAN KENDRA,UPPER KHAMDUNG,22 June 2020,Transport/Admin,Panchayat Headquarter,27.266501666667,88.469695000000
+92,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,Gram prasashan kendra,Samdong kambal East Sikkim,09 September 2020,Transport/Admin,Panchayat Headquarter,27.355816666667,88.483701666667
+93,Sikkim,East,Gangtok,Lingzey,1671997,Village Administrative Centre,Simick lingzey,22 June 2020,Transport/Admin,Panchayat Headquarter,27.283343850000,88.465028280000
+94,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,Gram Prashan Kendra,Tumin(East Sikkim),22 June 2020,Transport/Admin,Panchayat Headquarter,27.332603480000,88.507680150000
+95,Sikkim,East,Ranka,RAWTEY RUMTEK.,1521495,Government  pharmacy college,rumtek sajong,21 June 2020,Education ,Degree College,27.309226815266,88.567396144202
+96,Sikkim,East,Ranka,SICHEY GAON.,1521054,ICFAI UNIVERSITY,sichey,21 June 2020,Education ,Degree College,27.335271871511,88.602839043308
+97,Sikkim,East,Rakdong Tintek,MINING.,1521334,Government Industrial traning Institute,Mining,21 June 2020,Education ,Degree College,27.181257240000,88.512067410000
+98,Sikkim,East,Ranka,RAWTEY RUMTEK.,1521495,rumtek institute of buddhism,rumtek,21 June 2020,Education ,Degree College,27.291788076125,88.561267589376
+99,Sikkim,East,Gangtok,LINGDING,1672210,sikkim judicial academy,lingding,27 June 2020,Education ,Degree College,27.323208417497,88.605205935599
+100,Sikkim,East,Gangtok,SAJONG,1671942,government pharmacy college,sajong rumtek,21 June 2020,Education ,Degree College,27.309169540000,88.567957480000
+101,Sikkim,East,Gangtok,RANIPOOL.,1672199,college of agriculture engineering and post harvest technology,ranipool,21 June 2020,Education ,Degree College,27.288305700000,88.591392760000
+102,Sikkim,East,Ranka,DHAJEY.,1520992,ZURMANG SHEDRA LUNGTOK NORBU GYATSAL,Lingdum,09 March 2023,Education ,Degree College,27.330743590000,88.580272960000
+103,Sikkim,East,Gangtok,BARDANG,1672214,Advanced Technical Training institute,Bardang,21 June 2020,Education ,Degree College,27.210036200000,88.490909050000
+104,Sikkim,East,Ranka,RAWTEY RUMTEK.,1521495,institute  of hotel management,rumtek,21 June 2020,Education ,Degree College,27.301810655133,88.572224396151
+105,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,Govt.Sanskrit college,Samdong East Sikkim,09 September 2020,Education ,Degree College,27.360923333333,88.494501666667
+106,Sikkim,East,Gangtok,TADONG BAZAAR.,1672202,Shri Ramasamy memorial University Sikkim science block,Tadong bazar Gangtok,20 June 2020,Education ,Degree College,27.333031000000,88.614630100000
+107,Sikkim,East,Gangtok,SAJONG,1671942,institute of hotel management,sajong rumtek,21 June 2020,Education ,Degree College,27.301851460000,88.572154880000
+108,Sikkim,East,Gangtok,GANGTOK.,1672205,Sikkim organic market,Gangtok,20 June 2020,Agro ,Mandi (Notified),27.333031000000,88.614630100000
+109,Sikkim,East,Gangtok,DHAJAY,1671908,Sabji Mandi,Dhajay Ranka,22 June 2020,Agro ,Mandi (Notified),27.323590940000,88.582346920000
+110,Sikkim,East,Khamdung,RALAP.,1521238,Govt cooperative  vegetable  mandi Ralap,Ralap,10 September 2020,Agro ,Mandi (Notified),27.301176666667,88.451691666667
+111,Sikkim,East,Gangtok,SMC,1672215,singtam mandi,singtam,22 June 2020,Agro ,Mandi (Notified),27.231634620000,88.494734800000
+112,Sikkim,East,Gangtok,MARCHAK,1671881,rural marketing centre,marchak,21 June 2020,Agro ,Mandi (Notified),27.289182430000,88.588952060000
+113,Sikkim,East,Martam,namli,1521342,Mandi,"Radan, 39th Namli GPU.",21 June 2020,Agro ,Mandi (Notified),27.269598333333,88.580368333333
+114,Sikkim,East,Gangtok,SANG,1671883,rural marketing centre,sang,21 June 2020,Agro ,Mandi (Notified),27.257110680000,88.505706180000
+115,Sikkim,East,Gangtok,DHAJAY,1671908,Organic stall,Dhajay ranka,22 June 2020,Agro ,Mandi (Notified),27.323695130000,88.582145830000
+116,Sikkim,East,Gangtok,SMC,1672215,Singtam Mandi cum shopping complex,singtam,22 June 2020,Agro ,Mandi (Notified),27.231679300000,88.494537260000
+117,Sikkim,East,Gangtok,GANGTOK.,1672205,lall bazar kanchanjunga shopping complex,Gangtok,20 June 2020,Agro ,Mandi (Notified),27.333031000000,88.614630100000
+118,Sikkim,East,Gangtok,PENLONG,1672004,Penlong MPCS Ltd.,Navey Shotak,23 June 2020,Agro ,Mandi (Notified),27.382531150000,88.598633960000
+119,Sikkim,East,Rakdong Tintek,LINGDOk FEMPO GAON,1521332,Coopretive Sabji Mandi,Lingdok,21 June 2020,Agro ,Mandi (Notified),27.388682060000,88.576224250000
+120,Sikkim,East,Gangtok,GNATHANG,1671910,sabji Mandi,j.n road,25 June 2020,Agro ,Mandi (Notified),27.375056080000,88.756061330000
+121,Sikkim,East,Gangtok,RANGPO.,1672212,Sabji Mandi,Rongpo,21 June 2020,Agro ,Mandi (Notified),27.174510920000,88.529595780000
+122,Sikkim,East,Khamdung,SIRWANI.,1521561,SINGTAM MANDI,SINGTAM,22 June 2020,Agro ,Mandi (Notified),27.231515000000,88.494763333333
+123,Sikkim,East,Gangtok,PENLONG,1672004,Office of the V.L.W.,Penlong Navey Shotak GPU,23 June 2020,Agro ,GRaM (Notified),27.375490580000,88.604815810000
+124,Sikkim,East,Martam,NAZITAM,1521470,food security and agriculture development department & HCCD,martam nazitam,21 June 2020,Agro ,GRaM (Notified),27.278453690000,88.521046500000
+125,Sikkim,East,Gangtok,GANGTOK.,1672205,roads and bridges department,zero point Gangtok,20 June 2020,Transport/Admin,Block Headquarter,27.338797000000,88.614410100000
+126,Sikkim,East,Gangtok,RANGPO.,1672212,Fire Station,Rongpo,21 June 2020,Transport/Admin,Block Headquarter,27.173777360000,88.530792200000
+127,Sikkim,East,Gangtok,GANGTOK.,1672205,buildings and housing department,zero point Gangtok,20 June 2020,Transport/Admin,Block Headquarter,27.338858500000,88.614245700000
+128,Sikkim,East,Gangtok,GANGTOK.,1672205,manan bhawan secretariat,jewan theeng marg development area Gangtok,20 June 2020,Transport/Admin,Block Headquarter,27.335446300000,88.614483000000
+129,Sikkim,East,Gangtok,GNATHANG,1671910,government of Sikkim tourism & civil aviation department,tsamgu,25 June 2020,Transport/Admin,Block Headquarter,27.374898350000,88.757414920000
+130,Sikkim,East,Khamdung,SIRWANI.,1521561,SINGTAM MECHANICAL SUB DIVISION ROAD AND BRIDGES,SIRWANI,21 June 2020,Transport/Admin,Block Headquarter,27.245911666667,88.482490000000
+131,Sikkim,East,Gangtok,SMC,1672215,OFFICE OF THE  BLOCK OFFICER  SINGTAM  FOREST  DEPARTMENT,SINGTAM,22 June 2020,Transport/Admin,Block Headquarter,27.267210000000,88.573781666667
+132,Sikkim,East,Gangtok,SMC,1672215,ROAD AND BRIDGES DEPARTMENT  SINGTAM,SINGTAM,22 June 2020,Transport/Admin,Block Headquarter,27.232793333333,88.499170000000
+133,Sikkim,East,Gangtok,GANGTOK.,1672205,transport department yatayat bhawan,Gangtok,20 June 2020,Transport/Admin,Block Headquarter,27.334275900000,88.614705100000
+134,Sikkim,East,Gangtok,GANGTOK.,1672205,Water security and public health engineering and water resource and river development department,zero point Gangtok,20 June 2020,Transport/Admin,Block Headquarter,27.339082800000,88.613897800000
+135,Sikkim,East,Khamdung,SIRWANI.,1521561,MILITARY CHECK POST AND 28 MOB FD VET HOSPITAL,SIRWANI  SINGTAM,22 June 2020,Transport/Admin,Block Headquarter,27.244265000000,88.477340000000
+136,Sikkim,East,Gangtok,SMC,1672215,OFFICE OF THE RANGE OFFICER  FOREST DEPARTMENT SINGTAM,SINGTAM,22 June 2020,Transport/Admin,Block Headquarter,27.233335000000,88.498065000000
+137,Sikkim,East,Gangtok,GANGTOK.,1672205,Sikkim police headquarters,MG marg Gangtok,25 June 2020,Transport/Admin,Block Headquarter,27.327073800000,88.611424200000
+138,Sikkim,East,Gangtok,GANGTOK.,1672205,Sikkim State commission for women cum Sikkim information commission cum sikkim commission for protection of child rights,Gangtok,25 June 2020,Transport/Admin,Block Headquarter,27.327072600000,88.611417300000
+139,Sikkim,East,Gangtok,GANGTOK.,1672205,urban development and housing department,below highcourt NH 10 Gangtok,20 June 2020,Transport/Admin,Block Headquarter,27.333031000000,88.614630100000
+140,Sikkim,East,Ranka,SICHEY.,1521055,Sewerage Treatment Plant,Lower Sichey,18 August 2020,Transport/Admin,Block Headquarter,27.335045000000,88.596896666667
+141,Sikkim,East,Gangtok,SMC,1672215,Singtam Municipality,singtam,22 June 2020,Transport/Admin,Block Headquarter,27.231686700000,88.497249980000
+142,Sikkim,East,Gangtok,SMC,1672215,Transport Department singtam,singtam,22 June 2020,Transport/Admin,Block Headquarter,27.231856940000,88.498140320000
+143,Sikkim,East,Gangtok,SMC,1672215,BUILDING AND HOUSING  DEPARTMENT  SINGTAM,SINGTAM,22 June 2020,Transport/Admin,Block Headquarter,27.232921666667,88.499115000000
+144,Sikkim,East,Gangtok,RANGPO.,1672212,Police Station,Rongpo,21 June 2020,Transport/Admin,Block Headquarter,27.173883620000,88.530954090000
+145,Sikkim,East,Ranka,PARBING RANKA,1520994,block administrative  centre Ranka,ranka,21 June 2020,Transport/Admin,Block Headquarter,27.323965832139,88.582205230616
+146,Sikkim,East,Gangtok,DHAJAY,1671908,Block administrative Centre,Dhajay ranka,22 June 2020,Transport/Admin,Block Headquarter,27.324025060000,88.581751860000
+147,Sikkim,East,Nandok,NANDOK.,1521404,block administrative centre,Nandoj,25 June 2020,Transport/Admin,Block Headquarter,27.294525000000,88.608651666667
+148,Sikkim,East,Khamdung,L KHAMDONG.,1521246,Block Administrative Centre (BDO),Khamdong,22 June 2020,Transport/Admin,Block Headquarter,27.271496920000,88.458525430000
+149,Sikkim,East,Gangtok,SMC,1672215,singtam fire station,singtam,22 June 2020,Transport/Admin,Block Headquarter,27.231993980000,88.498538580000
+150,Sikkim,East,Rakdong Tintek,TINTEK,1521684,Block Administrative Centre,Rakdong Tintek,21 June 2020,Transport/Admin,Block Headquarter,27.376501420000,88.513464030000
+151,Sikkim,East,Gangtok,GANGTOK.,1672205,directorate of handicrafts and handloom,zero point Gangtok,20 June 2020,Transport/Admin,Block Headquarter,27.337447700000,88.612023500000
+152,Sikkim,East,Rakdong Tintek,MINING.,1521334,Office of Sub Divisional Magistrate,Mining,21 June 2020,Transport/Admin,Block Headquarter,27.181834550000,88.512958740000
+153,Sikkim,East,Gangtok,GANGTOK.,1672205,botanical survey of India cum Sikkim Himalayan regional centre,zero point Gangtok,20 June 2020,Transport/Admin,Block Headquarter,27.338843000000,88.614406800000
+154,Sikkim,East,Gangtok,GNATHANG,1671910,animal husbandry,Gnathang,25 June 2020,Medical ,Veterinary Hospital,27.298398380000,88.816807350000
+155,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,Animal Husbandry,upper Samdong,21 June 2020,Medical ,Veterinary Hospital,27.357447190000,88.498230160000
+156,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,Animal husbandry & Vetenary service,Sam dong East Sikkim,09 September 2020,Medical ,Veterinary Hospital,27.370236666667,88.494220000000
+157,Sikkim,East,Khamdung,SIRWANI.,1521561,SIRWANI VETERINARY HOSPITAL,SIRWANI,21 June 2020,Medical ,Veterinary Hospital,27.245520000000,88.484673333333
+158,Sikkim,East,Gangtok,DHAJAY,1671908,Veterinary dispensary,Dhajay ranka,22 June 2020,Medical ,Veterinary Hospital,27.330046170000,88.583438200000
+159,Sikkim,East,Gangtok,SANG,1671883,VETERINARY HOSPITAL SANG,SANG,21 June 2020,Medical ,Veterinary Hospital,27.255831666667,88.504576666667
+160,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,veterinary,Sam dong East Sikkim,09 September 2020,Medical ,Veterinary Hospital,27.364395000000,88.493881666667
+161,Sikkim,East,Gangtok,Lingzey,1671997,Veterinary Dispensary,Simick Aritar,22 June 2020,Medical ,Veterinary Hospital,27.286360080000,88.464515240000
+162,Sikkim,East,Nandok,PABYUK.,1521302,Primary Health Centre,"pabyuik NAITAM,east Sikkim",26 June 2020,Medical ,Primary Health Centre,27.297841840000,88.636142450000
+163,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,Primary health centre,samdong East sikkim,09 September 2020,Medical ,Primary Health Centre,27.354088333333,88.496338333333
+164,Sikkim,East,Gangtok,RANGPO.,1672212,Primary health centre,Rongpo,21 June 2020,Medical ,Primary Health Centre,27.175184310000,88.530282460000
+165,Sikkim,East,Gangtok,GNATHANG,1671910,Primary health facility,j.n road,25 June 2020,Medical ,Primary Health Centre,27.374304720000,88.753420270000
+166,Sikkim,East,Gangtok,SANG,1671883,primary health center,sang,21 June 2020,Medical ,Primary Health Centre,27.254652660000,88.503863250000
+167,Sikkim,East,Gangtok,GNATHANG,1671910,Primary health center gnathang,gnathang,25 June 2020,Medical ,Primary Health Centre,27.298020780000,88.816502730000
+168,Sikkim,East,Gangtok,Lingzey,1671997,Primary Health Centre,Simick Lingzey,22 June 2020,Medical ,Primary Health Centre,27.299172140000,88.467583540000
+169,Sikkim,East,Gangtok,SANG,1671883,SANG PRIMARY HEALTH CENTRE,SANG,21 June 2020,Medical ,Primary Health Centre,27.255481666667,88.505380000000
+170,Sikkim,East,Rakdong Tintek,SAMDONG.,1521679,Upper Samdong Bus Stand,Upper Samdong,21 June 2020,Transport/Admin,Bus Stand,27.357032190000,88.497658290000
+171,Sikkim,East,Gangtok,Lingzey,1671997,singtam Bus stand,Singtam,21 June 2020,Transport/Admin,Bus Stand,27.231249730000,88.499122070000
+172,Sikkim,East,Gangtok,DUNGDUNG,1671909,DUNGDUNG BUS STOP,DUNGDUNG THASA,22 June 2020,Transport/Admin,Bus Stand,27.271161666667,88.457875000000
+173,Sikkim,East,Rakdong Tintek,LINGDOk FEMPO GAON,1521332,Lingdok Bus Stand,Lingdok East Sikkim,21 June 2020,Transport/Admin,Bus Stand,27.389710550000,88.566158820000
+174,Sikkim,East,Gangtok,GANGTOK.,1672205,Sikkim nationalised transport cum bus stand,Gangtok,20 June 2020,Transport/Admin,Bus Stand,27.333945600000,88.614638700000
+
